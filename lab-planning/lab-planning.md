@@ -10,3 +10,6 @@ Create or adapt a technical lab presentation for a real project. Help developers
 
 Use the supplied lab notes, source files, task descriptions, logs, configuration, and user-provided facts as the source of truth. Never invent project-specific details.
 
+## Required Presentation Structure
+Use this six-slide structure by default, in this order, unless the user explicitly requests a change.
+
