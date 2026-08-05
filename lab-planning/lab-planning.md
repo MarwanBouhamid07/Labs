@@ -30,3 +30,20 @@ Show a concise agenda:
 
 This is an overview only. Do not put detailed explanations on this slide.
 
+### Slide 3 — Technical Stack
+- Name technologies actually used in the lab.
+- For the initially specified lab, include Alpine.js and Laravel only if they are relevant to the supplied project.
+- Explain each technology's role in this project in one short, accurate sentence.
+- Include DevOps components (runtime, server, environment variables, containers, CI/CD, monitoring, infrastructure, etc.) only when supported by the supplied material.
+- Do not imply that a tool was used just because it is common.
+- If a component is unknown, mark it “not specified” or ask for clarification.
+
+### Slide 4 — Important Definitions
+Explain relevant technical terms or project concepts that may not be familiar to every developer.
+- Use a simple definition plus why the concept matters in this project.
+- Select terms from the supplied lab material, code, architecture, errors, or configuration.
+- Explain Alpine.js or Laravel concepts only where relevant to the implementation.
+- DevOps terms may include environment variables, build/runtime, reverse proxy, container, CI/CD, deployment, logs, or health checks, but include them only if they appear in or are needed to understand the lab.
+- Avoid basic definitions the audience is expected to know.
+- Do not turn this into a generic glossary. If too many terms are needed, prioritize the most important ones and ask before adding slides.
+
