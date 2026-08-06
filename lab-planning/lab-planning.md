@@ -47,3 +47,11 @@ Explain relevant technical terms or project concepts that may not be familiar to
 - Avoid basic definitions the audience is expected to know.
 - Do not turn this into a generic glossary. If too many terms are needed, prioritize the most important ones and ask before adding slides.
 
+### Slide 5 — Problems Encountered
+- Present up to five real problems, errors, blockers, or technical risks documented in the supplied material.
+- Aim for five only when five are supported by evidence.
+- For each problem, state the symptom/error and its context or impact if known.
+- Prefer evidence from logs, screenshots, code, tests, or the user's notes.
+- Do not invent problems just to reach five. If fewer than five are documented, show only those supported and say more evidence is needed.
+- Distinguish actual problems from hypothetical risks.
+
