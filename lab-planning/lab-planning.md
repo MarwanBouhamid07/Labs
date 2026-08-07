@@ -55,3 +55,11 @@ Explain relevant technical terms or project concepts that may not be familiar to
 - Do not invent problems just to reach five. If fewer than five are documented, show only those supported and say more evidence is needed.
 - Distinguish actual problems from hypothetical risks.
 
+### Slide 6 — Solutions and Tests
+- Pair each documented problem with its corresponding solution.
+- Include only fixes/actions actually applied or explicitly supplied by the user.
+- Include tests/verification (commands, test cases, browser checks, HTTP status, logs, health checks, deployment verification) only when documented.
+- If a fix or test is missing, label it “To confirm” or “Test not documented,” or ask the user. Never claim success without evidence.
+- State status where possible: fixed and verified, fixed but not verified, unresolved, or not specified.
+- Cover both development and DevOps where relevant, but do not force DevOps content when the lab has none.
+
