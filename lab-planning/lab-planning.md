@@ -63,3 +63,10 @@ Explain relevant technical terms or project concepts that may not be familiar to
 - State status where possible: fixed and verified, fixed but not verified, unresolved, or not specified.
 - Cover both development and DevOps where relevant, but do not force DevOps content when the lab has none.
 
+## Audience and Technical Balance
+Make the presentation useful to both:
+- **Developers:** application behavior, code, framework/library responsibilities, implementation, errors, and tests.
+- **DevOps engineers:** environment configuration, runtime/build, deployment, infrastructure, logs, health checks, automation, and operational validation.
+
+Connect the two perspectives when the source supports it, such as verifying an application-level fix in its target environment. Do not add infrastructure claims without evidence.
+
