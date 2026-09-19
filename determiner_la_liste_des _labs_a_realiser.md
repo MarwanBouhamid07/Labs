@@ -15,6 +15,6 @@
 13. lab starter
 14. comprand laravel
 15. what is lab
-16. prepare l'environnement
+16. lab prepare l'environnement
 17. lab git
 
