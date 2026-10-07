@@ -1,10 +1,9 @@
+
 # Markdown exercice
 
 Create a Markdown file called ` about-me.md `.
 
 Your file must contain:
-
----
 
 1. A main title with your name.
 2. A short description about yourself must be bold.
