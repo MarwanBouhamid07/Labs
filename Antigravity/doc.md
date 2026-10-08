@@ -1,3 +1,4 @@
+
 # Antigravity: Small Documentation
 
 > Based on my knowledge and public guides. Names, menus, and folders may differ in your lab version, so check them in your lab.
@@ -6,14 +7,6 @@
 
 A development environment built around AI agents. The agents can plan, write code, run commands, and test your work, and you supervise them.
 
-## 2. Core parts
-
-| Part | What it does |
-|---|---|
-| Editor View | Code editor with an agent beside it |
-| Agent Manager | Start and follow several agents at once |
-| Artifacts | What the agent shows for review: plans, task lists, screenshots |
-| Browser Agent | Opens a browser and tests your page |
 
 ## 3. Workflow
 
