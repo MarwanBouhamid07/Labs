@@ -53,9 +53,10 @@ Search → Read → Think → Questions → Understand
 ---
 
 ## Takeaways
-
+<!-- TODO: my tasks -->
 - Learn, then teach
 - Five steps, one loop
 - Gaps guide learning
 - Teaching proves it
+- FIXME: Fix the database connection
 

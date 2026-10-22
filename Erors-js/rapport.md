@@ -14,7 +14,7 @@ description: Présentation structurée des codes HTTP et des erreurs Frontend / 
 **Frontend JavaScript · Backend PHP · Débogage**
 
 ---
-
+<!-- TODO: introduction -->
 # Sommaire
 
 1. Comprendre les codes HTTP
