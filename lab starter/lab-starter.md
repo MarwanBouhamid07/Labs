@@ -139,11 +139,6 @@ style: |
 
 # Development<br>Environment
 
-<div class="by">
-  <strong>Mohammed Yassir Mesbahi</strong>
-
-encadre:essarraj-fouad 
-</div>
 
 ---
 
